@@ -7,3 +7,4 @@ https://github.com/miguelgrinberg/flasky.
 
 ![Screenshot 2023-09-20 102410](https://github.com/jenniferzxm/ECE444-F2023-Lab1/assets/144472108/e080a7dd-75e6-44ba-bf62-6fa156352db8)
 
+![Screenshot 2023-09-21 155629](https://github.com/jenniferzxm/ECE444-F2023-Lab1/assets/144472108/4c92d92d-b9da-4224-925f-21ef8c983c5e)
