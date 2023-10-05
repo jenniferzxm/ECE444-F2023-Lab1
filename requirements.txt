@@ -1,0 +1,10 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+flask
+flask_bootstrap
+flask_moment
+flask_wtf
+itsdangerous
+jinja2
+werkzeug
+wtforms
+email_validator
